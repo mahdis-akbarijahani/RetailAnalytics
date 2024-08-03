@@ -1,2 +1,2 @@
 # RetailAnalytics
-A brief summary of the project’s purpose, such as analyzing customer transaction data to derive insights about purchasing behaviors and trends.
+The project involves data analysis using a dataset with information on customer transactions. It includes details like CustomerID, Product_SKU, Transaction_Date, and various other metrics such as Average Price, Delivery Charges, and Discount Percentage. The notebook utilizes Python libraries such as Pandas, Seaborn, and scikit-learn for data manipulation, visualization, and modeling.
