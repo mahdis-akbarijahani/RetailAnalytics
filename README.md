@@ -4,5 +4,5 @@ The project involves data analysis using a dataset with information on customer 
 
 Features:
  Data cleaning and preprocessing
--Exploratory data analysis (EDA)
--Predictive modeling using Linear Regression
+- Exploratory data analysis (EDA)
+- Predictive modeling using Linear Regression
